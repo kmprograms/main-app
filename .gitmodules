@@ -1,3 +1,4 @@
 [submodule "external/library"]
 	path = external/library
 	url = https://github.com/kmprograms/library.git
+	branch = main
